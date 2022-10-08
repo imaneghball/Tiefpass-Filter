@@ -1,3 +1,3 @@
 # Tiefpass Filter
 
-Vergleic von verschiedene tiefpass Filter im Frequenzraum
+Vergleich von verschiedene tiefpass-Filtern im Frequenzraum
